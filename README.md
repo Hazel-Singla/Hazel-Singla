@@ -54,15 +54,14 @@ Git • GitHub
 
 ---
 
-<h3 align="center">🌐 Connect with Me</h3>
+<h3>🌐 Connect with Me</h3>
 
-<p align="center">
+<p>
   <a href="https://linkedin.com/in/hazel-singla" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.leetcode.com/hazel_singla" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40" />
   </a>
 </p>
 
