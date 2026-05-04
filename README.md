@@ -1,17 +1,79 @@
 <h1 align="center">Hi 👋, I'm Hazel Singla</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+<h3 align="center">Full-Stack Developer | Java & Spring Boot</h3>
 
-- 🌱 I’m currently learning **Cloud Computing,Java**
+---
 
-- 📫 How to reach me **hzlsingla@gmail.com**
+## 👩‍💻 About Me
 
-- ⚡ Fun fact **I don't just build architectures; I build atmospheres. Whether I’m orchestrating Spring Boot microservices for an e-commerce platform or integrating the Gemini API for AI-driven recognition , I treat every line of HTML and CSS as a brushstroke. My goal is to bridge the gap between robust, high-performance logic and those 'wow' moments—like a 40% boost in engagement —where the code feels as smooth as it looks.**
+- 🎓 Computer Science Engineering student at **Chitkara University**
+- 💻 Strong foundation in **Java, OOP, DSA, DBMS, and Operating Systems**
+- 🚀 Experience building **scalable web applications using Spring Boot and Node.js**
+- 🌱 Currently learning **Cloud Computing and System Design**
+- 🎯 Actively seeking **Software Development roles**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/hazel-singla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hazel-singla" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/hazel_singla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hazel_singla" height="30" width="40" /></a>
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**  
+Java • JavaScript • SQL  
+
+**Backend & Web:**  
+Spring Boot • Node.js • Express.js  
+
+**Databases:**  
+MongoDB • MySQL  
+
+**Core CS:**  
+Data Structures & Algorithms • OOP • DBMS • Operating Systems  
+
+**Tools:**  
+Git • GitHub  
+
+---
+
+## 📌 Projects
+
+### 🛒 E-commerce Application – Microservices-based System  
+🔗 https://github.com/Hazel-Singla/shopping-cart-microservices  
+
+- Built an **e-commerce web application using Java and Spring Boot**  
+- Implemented a **microservices architecture** to improve scalability and maintainability  
+- Added **role-based access control** to ensure secure user permissions  
+- Used **Spring Data JPA** for efficient database operations  
+
+---
+
+### 🚗 PoolUp – Carpooling Web Application  
+🔗 https://github.com/Hazel-Singla/PoolUp_Updated  
+
+- Developed a **carpooling platform** to enable ride sharing  
+- Built backend features using **Node.js and Express.js**  
+- Implemented **secure authentication, role-based access, and MongoDB storage**  
+- Added **real-time chat using WebSocket** and email notifications using Nodemailer  
+
+---
+
+<h3 align="center">🌐 Connect with Me</h3>
+
+<p align="center">
+  <a href="https://linkedin.com/in/hazel-singla" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.leetcode.com/hazel_singla" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40" width="40" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
+
+## 📫 Contact
+
+📧 **hzlsingla@gmail.com**
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy building systems that are both **efficient and scalable**, while also focusing on creating a **smooth and intuitive user experience**.
